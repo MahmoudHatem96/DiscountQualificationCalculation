@@ -1,0 +1,971 @@
+2024-05-07 21:06:34 INFO Discounts calculated successfully.
+2024-05-07 21:12:12 WARN - Discount resulted in null for order: 2023-04-09T20:17:37Z,Pepper - Red Thai,2023-05-22,5,23.18,Store,Cash
+2024-05-07 21:12:12 WARN - Discount resulted in null for order: 2023-04-04T14:52:06Z,Sesame Seed,2023-06-08,4,62.69,Store,Cash
+2024-05-07 21:12:12 WARN - Discount resulted in null for order: 2023-04-24T04:20:27Z,Carbonated Water - Wildberry,2023-07-19,2,19.31,Store,Cash
+2024-05-07 21:12:12 WARN - Discount resulted in null for order: 2023-04-04T19:15:08Z,Lychee,2023-07-01,4,16.08,Store,Cash
+2024-05-07 21:12:12 WARN - Discount resulted in null for order: 2023-04-15T11:20:26Z,Soup - Campbells Chili,2023-06-13,3,167.22,Store,Cash
+2024-05-07 21:12:12 WARN - Discount resulted in null for order: 2023-04-20T11:23:27Z,Lamb - Pieces Diced,2023-06-12,5,85.41,Store,Cash
+2024-05-07 21:12:12 WARN - Discount resulted in null for order: 2023-03-30T01:31:30Z,Juice - Apple 284ml,2023-05-12,2,24.63,Store,Cash
+2024-05-07 21:12:12 WARN - Discount resulted in null for order: 2023-04-03T08:39:33Z,Tomato - Plum With Basil,2023-06-25,3,71.15,Store,Cash
+2024-05-07 21:12:12 WARN - Discount resulted in null for order: 2023-04-12T10:58:09Z,Ocean Spray - Ruby Red,2023-07-02,5,148.87,Store,Cash
+2024-05-07 21:12:12 WARN - Discount resulted in null for order: 2023-04-29T01:43:46Z,Tequila - Sauza Silver,2023-06-30,3,24.27,Store,Cash
+2024-05-07 21:12:12 WARN - Discount resulted in null for order: 2023-03-22T07:45:32Z,Pepper - Green Thai,2023-04-22,1,64.88,Store,Cash
+2024-05-07 21:12:12 WARN - Discount resulted in null for order: 2023-03-18T13:30:28Z,Cake - Sheet Strawberry,2023-05-29,4,72.27,Store,Cash
+2024-05-07 21:12:12 WARN - Discount resulted in null for order: 2023-05-05T16:57:36Z,Fish - Bones,2023-07-06,5,194.87,Store,Cash
+2024-05-07 21:12:12 WARN - Discount resulted in null for order: 2023-04-25T10:47:17Z,Orange Roughy 6/8 Oz,2023-07-06,3,144.86,Store,Cash
+2024-05-07 21:12:12 WARN - Discount resulted in null for order: 2023-03-20T17:39:20Z,Beef - Top Butt Aaa,2023-05-06,3,103.91,Store,Cash
+2024-05-07 21:12:12 WARN - Discount resulted in null for order: 2023-04-15T16:54:01Z,Pickles - Gherkins,2023-06-11,3,187.3,Store,Cash
+2024-05-07 21:12:12 WARN - Discount resulted in null for order: 2023-03-20T20:29:04Z,Wheat - Soft Kernal Of Wheat,2023-05-13,4,132.78,Store,Cash
+2024-05-07 21:12:12 WARN - Discount resulted in null for order: 2023-04-30T21:38:48Z,Pastrami,2023-07-19,1,153.31,Store,Cash
+2024-05-07 21:12:12 WARN - Discount resulted in null for order: 2023-03-25T13:16:51Z,Potatoes - Peeled,2023-06-22,3,110.03,Store,Cash
+2024-05-07 21:12:12 WARN - Discount resulted in null for order: 2023-04-06T15:13:01Z,Yeast Dry - Fermipan,2023-05-14,3,173.94,Store,Cash
+2024-05-07 21:12:12 WARN - Discount resulted in null for order: 2023-03-17T00:10:50Z,Lobak,2023-06-01,1,123.8,Store,Cash
+2024-05-07 21:12:12 WARN - Discount resulted in null for order: 2023-03-14T10:32:08Z,Pasta - Penne Lisce Dry,2023-05-15,5,83.36,Store,Cash
+2024-05-07 21:12:12 WARN - Discount resulted in null for order: 2023-04-01T05:40:47Z,Bagel - Ched Chs Presliced,2023-05-10,4,143.13,Store,Cash
+2024-05-07 21:12:12 WARN - Discount resulted in null for order: 2023-03-30T10:01:56Z,Cotton Wet Mop 16 Oz,2023-05-27,4,206.75,Store,Cash
+2024-05-07 21:12:12 WARN - Discount resulted in null for order: 2023-05-06T17:26:37Z,Muffin Batt - Carrot Spice,2023-06-14,3,43.01,Store,Cash
+2024-05-07 21:12:12 WARN - Discount resulted in null for order: 2023-03-22T03:58:01Z,Pop - Club Soda Can,2023-04-26,2,199.86,Store,Cash
+2024-05-07 21:12:12 WARN - Discount resulted in null for order: 2023-03-15T09:24:04Z,Gelatine Leaves - Envelopes,2023-06-07,4,154.74,Store,Cash
+2024-05-07 21:12:12 WARN - Discount resulted in null for order: 2023-04-05T08:03:10Z,Flour - Fast / Rapid,2023-05-14,3,196.76,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-05-11T22:39:14Z,Sausage - Meat,2023-07-28,1,234.17,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-04-10T20:58:46Z,Cookie Chocolate Chip With,2023-05-21,3,101.45,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-04-30T18:13:46Z,Turnip - White,2023-07-12,1,239.67,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-04-23T03:12:57Z,Thyme - Fresh,2023-06-20,3,29.72,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-05-03T21:51:16Z,Pork - Backfat,2023-06-06,3,209.35,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-03-13T00:58:13Z,Muffin - Zero Transfat,2023-04-24,3,127.44,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-04-05T18:20:59Z,Capon - Breast Double Wing On,2023-06-08,3,220.85,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-05-03T23:36:50Z,Bread - Assorted Rolls,2023-07-01,2,214.24,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-04-23T16:03:53Z,Cocktail Napkin Blue,2023-06-11,3,5.02,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-03-29T18:12:21Z,Spinach - Spinach Leaf,2023-06-18,4,71.74,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-04-12T13:14:42Z,Sauce Bbq Smokey,2023-05-21,1,111.91,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-04-09T18:46:33Z,Ecolab - Solid Fusion,2023-07-06,4,11.47,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-03-28T22:07:16Z,Napkin Colour,2023-06-01,3,95.55,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-05-05T17:09:34Z,Trueblue - Blueberry 12x473ml,2023-07-19,3,51.38,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-03-17T18:56:00Z,Pate - Cognac,2023-04-28,1,70.2,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-04-26T20:09:24Z,Food Colouring - Blue,2023-06-17,3,216.56,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-04-29T04:22:52Z,Pepper - Chipotle Canned,2023-06-15,1,82.75,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-04-15T14:10:49Z,Snapple Lemon Tea,2023-06-16,1,237.89,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-05-05T23:46:11Z,Fib N9 - Prague Powder,2023-07-09,1,4.5,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-03-21T09:44:43Z,Beef - Salted,2023-06-12,4,71.58,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-03-29T15:02:44Z,Dates,2023-06-06,1,191.02,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-05-07T13:46:49Z,Gherkin,2023-06-15,5,176.37,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-04-02T15:51:21Z,Brandy Apricot,2023-06-27,5,94.28,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-05-06T17:50:20Z,The Pop Shoppe - Root Beer,2023-07-07,4,235.13,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-04-15T19:14:59Z,Scallops - 10/20,2023-07-10,4,34.29,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-03-19T00:03:28Z,Beef - Kobe Striploin,2023-04-29,5,229.73,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-05-07T12:54:56Z,Blueberries - Frozen,2023-07-04,2,213.94,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-04-19T01:55:22Z,Pike - Frozen Fillet,2023-07-17,3,246.97,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-04-10T02:16:56Z,Chilli Paste Ginger Garlic,2023-07-05,2,25.07,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-04-17T16:32:10Z,Pastrami,2023-05-17,3,35.53,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-04-10T13:01:51Z,Blue Curacao - Marie Brizard,2023-06-28,3,175.6,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-03-14T15:38:59Z,Cup - Translucent 7 Oz Clear,2023-06-02,3,42.68,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-04-14T15:16:36Z,Trout - Smoked,2023-07-08,4,143.96,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-04-09T07:40:06Z,Pike - Frozen Fillet,2023-06-22,2,119.96,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-04-06T21:54:23Z,Table Cloth 120 Round White,2023-06-07,5,126.5,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-03-16T16:46:01Z,Cookies - Oreo 4 Pack,2023-05-26,2,167.88,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-04-09T23:15:57Z,Bread - Multigrain Loaf,2023-06-17,1,26.95,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-05-09T03:36:50Z,Split Peas - Yellow Dry,2023-06-24,5,45.82,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-05-01T20:43:31Z,Kiwi Gold Zespri,2023-07-01,4,8.94,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-04-25T19:48:45Z,Pastry - Mini French Pastries,2023-07-04,1,224.65,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-04-22T19:02:04Z,Muffin Mix - Oatmeal,2023-05-22,4,149.11,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-05-06T21:38:02Z,Soup Campbells Turkey Veg.,2023-06-23,5,59.82,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-04-05T06:32:20Z,Tart Shells - Sweet 4,2023-05-06,3,67.73,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-04-11T09:35:44Z,Wheat - Soft Kernal Of Wheat,2023-06-04,5,124.96,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-04-17T09:13:03Z,Goldschalger,2023-06-08,1,210.04,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-04-11T20:54:24Z,External Supplier,2023-05-31,5,142.72,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-03-19T10:34:32Z,Vol Au Vents,2023-05-26,1,182.95,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-04-01T08:04:43Z,Oil - Pumpkinseed,2023-06-09,1,237.3,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-03-31T17:43:09Z,Gatorade - Orange,2023-05-15,4,154.15,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-04-25T17:18:23Z,Swiss Chard,2023-05-25,1,242.97,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-04-14T16:11:42Z,Food Colouring - Pink,2023-05-27,4,91.88,Store,Cash
+2024-05-07 21:12:13 WARN - Discount resulted in null for order: 2023-03-24T00:32:32Z,Blueberries,2023-05-27,3,16.26,Store,Cash
+2024-05-07 21:12:13 INFO - Discounts calculated successfully.
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-09T20:17:37Z,Pepper - Red Thai,2023-05-22,5,23.18,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-04T14:52:06Z,Sesame Seed,2023-06-08,4,62.69,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-24T04:20:27Z,Carbonated Water - Wildberry,2023-07-19,2,19.31,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-04T19:15:08Z,Lychee,2023-07-01,4,16.08,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-15T11:20:26Z,Soup - Campbells Chili,2023-06-13,3,167.22,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-20T11:23:27Z,Lamb - Pieces Diced,2023-06-12,5,85.41,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-03-30T01:31:30Z,Juice - Apple 284ml,2023-05-12,2,24.63,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-03T08:39:33Z,Tomato - Plum With Basil,2023-06-25,3,71.15,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-12T10:58:09Z,Ocean Spray - Ruby Red,2023-07-02,5,148.87,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-29T01:43:46Z,Tequila - Sauza Silver,2023-06-30,3,24.27,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-03-22T07:45:32Z,Pepper - Green Thai,2023-04-22,1,64.88,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-03-18T13:30:28Z,Cake - Sheet Strawberry,2023-05-29,4,72.27,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-05-05T16:57:36Z,Fish - Bones,2023-07-06,5,194.87,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-25T10:47:17Z,Orange Roughy 6/8 Oz,2023-07-06,3,144.86,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-03-20T17:39:20Z,Beef - Top Butt Aaa,2023-05-06,3,103.91,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-15T16:54:01Z,Pickles - Gherkins,2023-06-11,3,187.3,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-03-20T20:29:04Z,Wheat - Soft Kernal Of Wheat,2023-05-13,4,132.78,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-30T21:38:48Z,Pastrami,2023-07-19,1,153.31,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-03-25T13:16:51Z,Potatoes - Peeled,2023-06-22,3,110.03,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-06T15:13:01Z,Yeast Dry - Fermipan,2023-05-14,3,173.94,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-03-17T00:10:50Z,Lobak,2023-06-01,1,123.8,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-03-14T10:32:08Z,Pasta - Penne Lisce Dry,2023-05-15,5,83.36,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-01T05:40:47Z,Bagel - Ched Chs Presliced,2023-05-10,4,143.13,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-03-30T10:01:56Z,Cotton Wet Mop 16 Oz,2023-05-27,4,206.75,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-05-06T17:26:37Z,Muffin Batt - Carrot Spice,2023-06-14,3,43.01,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-03-22T03:58:01Z,Pop - Club Soda Can,2023-04-26,2,199.86,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-03-15T09:24:04Z,Gelatine Leaves - Envelopes,2023-06-07,4,154.74,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-05T08:03:10Z,Flour - Fast / Rapid,2023-05-14,3,196.76,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-05-11T22:39:14Z,Sausage - Meat,2023-07-28,1,234.17,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-10T20:58:46Z,Cookie Chocolate Chip With,2023-05-21,3,101.45,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-30T18:13:46Z,Turnip - White,2023-07-12,1,239.67,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-23T03:12:57Z,Thyme - Fresh,2023-06-20,3,29.72,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-05-03T21:51:16Z,Pork - Backfat,2023-06-06,3,209.35,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-03-13T00:58:13Z,Muffin - Zero Transfat,2023-04-24,3,127.44,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-05T18:20:59Z,Capon - Breast Double Wing On,2023-06-08,3,220.85,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-05-03T23:36:50Z,Bread - Assorted Rolls,2023-07-01,2,214.24,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-23T16:03:53Z,Cocktail Napkin Blue,2023-06-11,3,5.02,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-03-29T18:12:21Z,Spinach - Spinach Leaf,2023-06-18,4,71.74,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-12T13:14:42Z,Sauce Bbq Smokey,2023-05-21,1,111.91,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-09T18:46:33Z,Ecolab - Solid Fusion,2023-07-06,4,11.47,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-03-28T22:07:16Z,Napkin Colour,2023-06-01,3,95.55,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-05-05T17:09:34Z,Trueblue - Blueberry 12x473ml,2023-07-19,3,51.38,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-03-17T18:56:00Z,Pate - Cognac,2023-04-28,1,70.2,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-26T20:09:24Z,Food Colouring - Blue,2023-06-17,3,216.56,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-29T04:22:52Z,Pepper - Chipotle Canned,2023-06-15,1,82.75,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-15T14:10:49Z,Snapple Lemon Tea,2023-06-16,1,237.89,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-05-05T23:46:11Z,Fib N9 - Prague Powder,2023-07-09,1,4.5,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-03-21T09:44:43Z,Beef - Salted,2023-06-12,4,71.58,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-03-29T15:02:44Z,Dates,2023-06-06,1,191.02,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-05-07T13:46:49Z,Gherkin,2023-06-15,5,176.37,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-02T15:51:21Z,Brandy Apricot,2023-06-27,5,94.28,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-05-06T17:50:20Z,The Pop Shoppe - Root Beer,2023-07-07,4,235.13,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-15T19:14:59Z,Scallops - 10/20,2023-07-10,4,34.29,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-03-19T00:03:28Z,Beef - Kobe Striploin,2023-04-29,5,229.73,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-05-07T12:54:56Z,Blueberries - Frozen,2023-07-04,2,213.94,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-19T01:55:22Z,Pike - Frozen Fillet,2023-07-17,3,246.97,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-10T02:16:56Z,Chilli Paste Ginger Garlic,2023-07-05,2,25.07,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-17T16:32:10Z,Pastrami,2023-05-17,3,35.53,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-10T13:01:51Z,Blue Curacao - Marie Brizard,2023-06-28,3,175.6,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-03-14T15:38:59Z,Cup - Translucent 7 Oz Clear,2023-06-02,3,42.68,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-14T15:16:36Z,Trout - Smoked,2023-07-08,4,143.96,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-09T07:40:06Z,Pike - Frozen Fillet,2023-06-22,2,119.96,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-06T21:54:23Z,Table Cloth 120 Round White,2023-06-07,5,126.5,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-03-16T16:46:01Z,Cookies - Oreo 4 Pack,2023-05-26,2,167.88,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-09T23:15:57Z,Bread - Multigrain Loaf,2023-06-17,1,26.95,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-05-09T03:36:50Z,Split Peas - Yellow Dry,2023-06-24,5,45.82,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-05-01T20:43:31Z,Kiwi Gold Zespri,2023-07-01,4,8.94,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-25T19:48:45Z,Pastry - Mini French Pastries,2023-07-04,1,224.65,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-22T19:02:04Z,Muffin Mix - Oatmeal,2023-05-22,4,149.11,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-05-06T21:38:02Z,Soup Campbells Turkey Veg.,2023-06-23,5,59.82,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-05T06:32:20Z,Tart Shells - Sweet 4,2023-05-06,3,67.73,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-11T09:35:44Z,Wheat - Soft Kernal Of Wheat,2023-06-04,5,124.96,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-17T09:13:03Z,Goldschalger,2023-06-08,1,210.04,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-11T20:54:24Z,External Supplier,2023-05-31,5,142.72,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-03-19T10:34:32Z,Vol Au Vents,2023-05-26,1,182.95,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-01T08:04:43Z,Oil - Pumpkinseed,2023-06-09,1,237.3,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-03-31T17:43:09Z,Gatorade - Orange,2023-05-15,4,154.15,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-25T17:18:23Z,Swiss Chard,2023-05-25,1,242.97,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-04-14T16:11:42Z,Food Colouring - Pink,2023-05-27,4,91.88,Store,Cash
+2024-05-07 21:14:28 WARN - Discount resulted in null for order: 2023-03-24T00:32:32Z,Blueberries,2023-05-27,3,16.26,Store,Cash
+2024-05-07 21:14:28 INFO - Discounts calculated successfully.
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-09T20:17:37Z,Pepper - Red Thai,2023-05-22,5,23.18,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-04T14:52:06Z,Sesame Seed,2023-06-08,4,62.69,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-24T04:20:27Z,Carbonated Water - Wildberry,2023-07-19,2,19.31,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-04T19:15:08Z,Lychee,2023-07-01,4,16.08,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-15T11:20:26Z,Soup - Campbells Chili,2023-06-13,3,167.22,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-20T11:23:27Z,Lamb - Pieces Diced,2023-06-12,5,85.41,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-03-30T01:31:30Z,Juice - Apple 284ml,2023-05-12,2,24.63,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-03T08:39:33Z,Tomato - Plum With Basil,2023-06-25,3,71.15,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-12T10:58:09Z,Ocean Spray - Ruby Red,2023-07-02,5,148.87,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-29T01:43:46Z,Tequila - Sauza Silver,2023-06-30,3,24.27,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-03-22T07:45:32Z,Pepper - Green Thai,2023-04-22,1,64.88,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-03-18T13:30:28Z,Cake - Sheet Strawberry,2023-05-29,4,72.27,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-05-05T16:57:36Z,Fish - Bones,2023-07-06,5,194.87,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-25T10:47:17Z,Orange Roughy 6/8 Oz,2023-07-06,3,144.86,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-03-20T17:39:20Z,Beef - Top Butt Aaa,2023-05-06,3,103.91,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-15T16:54:01Z,Pickles - Gherkins,2023-06-11,3,187.3,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-03-20T20:29:04Z,Wheat - Soft Kernal Of Wheat,2023-05-13,4,132.78,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-30T21:38:48Z,Pastrami,2023-07-19,1,153.31,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-03-25T13:16:51Z,Potatoes - Peeled,2023-06-22,3,110.03,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-06T15:13:01Z,Yeast Dry - Fermipan,2023-05-14,3,173.94,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-03-17T00:10:50Z,Lobak,2023-06-01,1,123.8,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-03-14T10:32:08Z,Pasta - Penne Lisce Dry,2023-05-15,5,83.36,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-01T05:40:47Z,Bagel - Ched Chs Presliced,2023-05-10,4,143.13,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-03-30T10:01:56Z,Cotton Wet Mop 16 Oz,2023-05-27,4,206.75,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-05-06T17:26:37Z,Muffin Batt - Carrot Spice,2023-06-14,3,43.01,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-03-22T03:58:01Z,Pop - Club Soda Can,2023-04-26,2,199.86,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-03-15T09:24:04Z,Gelatine Leaves - Envelopes,2023-06-07,4,154.74,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-05T08:03:10Z,Flour - Fast / Rapid,2023-05-14,3,196.76,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-05-11T22:39:14Z,Sausage - Meat,2023-07-28,1,234.17,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-10T20:58:46Z,Cookie Chocolate Chip With,2023-05-21,3,101.45,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-30T18:13:46Z,Turnip - White,2023-07-12,1,239.67,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-23T03:12:57Z,Thyme - Fresh,2023-06-20,3,29.72,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-05-03T21:51:16Z,Pork - Backfat,2023-06-06,3,209.35,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-03-13T00:58:13Z,Muffin - Zero Transfat,2023-04-24,3,127.44,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-05T18:20:59Z,Capon - Breast Double Wing On,2023-06-08,3,220.85,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-05-03T23:36:50Z,Bread - Assorted Rolls,2023-07-01,2,214.24,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-23T16:03:53Z,Cocktail Napkin Blue,2023-06-11,3,5.02,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-03-29T18:12:21Z,Spinach - Spinach Leaf,2023-06-18,4,71.74,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-12T13:14:42Z,Sauce Bbq Smokey,2023-05-21,1,111.91,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-09T18:46:33Z,Ecolab - Solid Fusion,2023-07-06,4,11.47,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-03-28T22:07:16Z,Napkin Colour,2023-06-01,3,95.55,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-05-05T17:09:34Z,Trueblue - Blueberry 12x473ml,2023-07-19,3,51.38,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-03-17T18:56:00Z,Pate - Cognac,2023-04-28,1,70.2,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-26T20:09:24Z,Food Colouring - Blue,2023-06-17,3,216.56,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-29T04:22:52Z,Pepper - Chipotle Canned,2023-06-15,1,82.75,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-15T14:10:49Z,Snapple Lemon Tea,2023-06-16,1,237.89,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-05-05T23:46:11Z,Fib N9 - Prague Powder,2023-07-09,1,4.5,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-03-21T09:44:43Z,Beef - Salted,2023-06-12,4,71.58,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-03-29T15:02:44Z,Dates,2023-06-06,1,191.02,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-05-07T13:46:49Z,Gherkin,2023-06-15,5,176.37,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-02T15:51:21Z,Brandy Apricot,2023-06-27,5,94.28,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-05-06T17:50:20Z,The Pop Shoppe - Root Beer,2023-07-07,4,235.13,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-15T19:14:59Z,Scallops - 10/20,2023-07-10,4,34.29,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-03-19T00:03:28Z,Beef - Kobe Striploin,2023-04-29,5,229.73,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-05-07T12:54:56Z,Blueberries - Frozen,2023-07-04,2,213.94,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-19T01:55:22Z,Pike - Frozen Fillet,2023-07-17,3,246.97,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-10T02:16:56Z,Chilli Paste Ginger Garlic,2023-07-05,2,25.07,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-17T16:32:10Z,Pastrami,2023-05-17,3,35.53,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-10T13:01:51Z,Blue Curacao - Marie Brizard,2023-06-28,3,175.6,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-03-14T15:38:59Z,Cup - Translucent 7 Oz Clear,2023-06-02,3,42.68,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-14T15:16:36Z,Trout - Smoked,2023-07-08,4,143.96,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-09T07:40:06Z,Pike - Frozen Fillet,2023-06-22,2,119.96,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-06T21:54:23Z,Table Cloth 120 Round White,2023-06-07,5,126.5,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-03-16T16:46:01Z,Cookies - Oreo 4 Pack,2023-05-26,2,167.88,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-09T23:15:57Z,Bread - Multigrain Loaf,2023-06-17,1,26.95,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-05-09T03:36:50Z,Split Peas - Yellow Dry,2023-06-24,5,45.82,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-05-01T20:43:31Z,Kiwi Gold Zespri,2023-07-01,4,8.94,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-25T19:48:45Z,Pastry - Mini French Pastries,2023-07-04,1,224.65,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-22T19:02:04Z,Muffin Mix - Oatmeal,2023-05-22,4,149.11,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-05-06T21:38:02Z,Soup Campbells Turkey Veg.,2023-06-23,5,59.82,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-05T06:32:20Z,Tart Shells - Sweet 4,2023-05-06,3,67.73,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-11T09:35:44Z,Wheat - Soft Kernal Of Wheat,2023-06-04,5,124.96,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-17T09:13:03Z,Goldschalger,2023-06-08,1,210.04,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-11T20:54:24Z,External Supplier,2023-05-31,5,142.72,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-03-19T10:34:32Z,Vol Au Vents,2023-05-26,1,182.95,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-01T08:04:43Z,Oil - Pumpkinseed,2023-06-09,1,237.3,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-03-31T17:43:09Z,Gatorade - Orange,2023-05-15,4,154.15,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-25T17:18:23Z,Swiss Chard,2023-05-25,1,242.97,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-04-14T16:11:42Z,Food Colouring - Pink,2023-05-27,4,91.88,Store,Cash
+2024-05-07 21:23:12 WARN - Discount resulted in null for order: 2023-03-24T00:32:32Z,Blueberries,2023-05-27,3,16.26,Store,Cash
+2024-05-07 21:23:12 INFO - Discounts calculated successfully.
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-09T20:17:37Z,Pepper - Red Thai,2023-05-22,5,23.18,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-04T14:52:06Z,Sesame Seed,2023-06-08,4,62.69,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-24T04:20:27Z,Carbonated Water - Wildberry,2023-07-19,2,19.31,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-04T19:15:08Z,Lychee,2023-07-01,4,16.08,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-15T11:20:26Z,Soup - Campbells Chili,2023-06-13,3,167.22,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-20T11:23:27Z,Lamb - Pieces Diced,2023-06-12,5,85.41,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-03-30T01:31:30Z,Juice - Apple 284ml,2023-05-12,2,24.63,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-03T08:39:33Z,Tomato - Plum With Basil,2023-06-25,3,71.15,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-12T10:58:09Z,Ocean Spray - Ruby Red,2023-07-02,5,148.87,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-29T01:43:46Z,Tequila - Sauza Silver,2023-06-30,3,24.27,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-03-22T07:45:32Z,Pepper - Green Thai,2023-04-22,1,64.88,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-03-18T13:30:28Z,Cake - Sheet Strawberry,2023-05-29,4,72.27,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-05-05T16:57:36Z,Fish - Bones,2023-07-06,5,194.87,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-25T10:47:17Z,Orange Roughy 6/8 Oz,2023-07-06,3,144.86,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-03-20T17:39:20Z,Beef - Top Butt Aaa,2023-05-06,3,103.91,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-15T16:54:01Z,Pickles - Gherkins,2023-06-11,3,187.3,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-03-20T20:29:04Z,Wheat - Soft Kernal Of Wheat,2023-05-13,4,132.78,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-30T21:38:48Z,Pastrami,2023-07-19,1,153.31,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-03-25T13:16:51Z,Potatoes - Peeled,2023-06-22,3,110.03,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-06T15:13:01Z,Yeast Dry - Fermipan,2023-05-14,3,173.94,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-03-17T00:10:50Z,Lobak,2023-06-01,1,123.8,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-03-14T10:32:08Z,Pasta - Penne Lisce Dry,2023-05-15,5,83.36,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-01T05:40:47Z,Bagel - Ched Chs Presliced,2023-05-10,4,143.13,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-03-30T10:01:56Z,Cotton Wet Mop 16 Oz,2023-05-27,4,206.75,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-05-06T17:26:37Z,Muffin Batt - Carrot Spice,2023-06-14,3,43.01,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-03-22T03:58:01Z,Pop - Club Soda Can,2023-04-26,2,199.86,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-03-15T09:24:04Z,Gelatine Leaves - Envelopes,2023-06-07,4,154.74,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-05T08:03:10Z,Flour - Fast / Rapid,2023-05-14,3,196.76,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-05-11T22:39:14Z,Sausage - Meat,2023-07-28,1,234.17,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-10T20:58:46Z,Cookie Chocolate Chip With,2023-05-21,3,101.45,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-30T18:13:46Z,Turnip - White,2023-07-12,1,239.67,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-23T03:12:57Z,Thyme - Fresh,2023-06-20,3,29.72,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-05-03T21:51:16Z,Pork - Backfat,2023-06-06,3,209.35,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-03-13T00:58:13Z,Muffin - Zero Transfat,2023-04-24,3,127.44,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-05T18:20:59Z,Capon - Breast Double Wing On,2023-06-08,3,220.85,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-05-03T23:36:50Z,Bread - Assorted Rolls,2023-07-01,2,214.24,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-23T16:03:53Z,Cocktail Napkin Blue,2023-06-11,3,5.02,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-03-29T18:12:21Z,Spinach - Spinach Leaf,2023-06-18,4,71.74,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-12T13:14:42Z,Sauce Bbq Smokey,2023-05-21,1,111.91,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-09T18:46:33Z,Ecolab - Solid Fusion,2023-07-06,4,11.47,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-03-28T22:07:16Z,Napkin Colour,2023-06-01,3,95.55,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-05-05T17:09:34Z,Trueblue - Blueberry 12x473ml,2023-07-19,3,51.38,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-03-17T18:56:00Z,Pate - Cognac,2023-04-28,1,70.2,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-26T20:09:24Z,Food Colouring - Blue,2023-06-17,3,216.56,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-29T04:22:52Z,Pepper - Chipotle Canned,2023-06-15,1,82.75,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-15T14:10:49Z,Snapple Lemon Tea,2023-06-16,1,237.89,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-05-05T23:46:11Z,Fib N9 - Prague Powder,2023-07-09,1,4.5,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-03-21T09:44:43Z,Beef - Salted,2023-06-12,4,71.58,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-03-29T15:02:44Z,Dates,2023-06-06,1,191.02,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-05-07T13:46:49Z,Gherkin,2023-06-15,5,176.37,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-02T15:51:21Z,Brandy Apricot,2023-06-27,5,94.28,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-05-06T17:50:20Z,The Pop Shoppe - Root Beer,2023-07-07,4,235.13,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-15T19:14:59Z,Scallops - 10/20,2023-07-10,4,34.29,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-03-19T00:03:28Z,Beef - Kobe Striploin,2023-04-29,5,229.73,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-05-07T12:54:56Z,Blueberries - Frozen,2023-07-04,2,213.94,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-19T01:55:22Z,Pike - Frozen Fillet,2023-07-17,3,246.97,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-10T02:16:56Z,Chilli Paste Ginger Garlic,2023-07-05,2,25.07,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-17T16:32:10Z,Pastrami,2023-05-17,3,35.53,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-10T13:01:51Z,Blue Curacao - Marie Brizard,2023-06-28,3,175.6,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-03-14T15:38:59Z,Cup - Translucent 7 Oz Clear,2023-06-02,3,42.68,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-14T15:16:36Z,Trout - Smoked,2023-07-08,4,143.96,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-09T07:40:06Z,Pike - Frozen Fillet,2023-06-22,2,119.96,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-06T21:54:23Z,Table Cloth 120 Round White,2023-06-07,5,126.5,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-03-16T16:46:01Z,Cookies - Oreo 4 Pack,2023-05-26,2,167.88,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-09T23:15:57Z,Bread - Multigrain Loaf,2023-06-17,1,26.95,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-05-09T03:36:50Z,Split Peas - Yellow Dry,2023-06-24,5,45.82,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-05-01T20:43:31Z,Kiwi Gold Zespri,2023-07-01,4,8.94,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-25T19:48:45Z,Pastry - Mini French Pastries,2023-07-04,1,224.65,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-22T19:02:04Z,Muffin Mix - Oatmeal,2023-05-22,4,149.11,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-05-06T21:38:02Z,Soup Campbells Turkey Veg.,2023-06-23,5,59.82,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-05T06:32:20Z,Tart Shells - Sweet 4,2023-05-06,3,67.73,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-11T09:35:44Z,Wheat - Soft Kernal Of Wheat,2023-06-04,5,124.96,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-17T09:13:03Z,Goldschalger,2023-06-08,1,210.04,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-11T20:54:24Z,External Supplier,2023-05-31,5,142.72,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-03-19T10:34:32Z,Vol Au Vents,2023-05-26,1,182.95,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-01T08:04:43Z,Oil - Pumpkinseed,2023-06-09,1,237.3,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-03-31T17:43:09Z,Gatorade - Orange,2023-05-15,4,154.15,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-25T17:18:23Z,Swiss Chard,2023-05-25,1,242.97,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-04-14T16:11:42Z,Food Colouring - Pink,2023-05-27,4,91.88,Store,Cash
+2024-05-07 21:23:59 WARN - Discount resulted in null for order: 2023-03-24T00:32:32Z,Blueberries,2023-05-27,3,16.26,Store,Cash
+2024-05-07 21:23:59 INFO - Discounts calculated successfully.
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-09T20:17:37Z,Pepper - Red Thai,2023-05-22,5,23.18,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-04T14:52:06Z,Sesame Seed,2023-06-08,4,62.69,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-24T04:20:27Z,Carbonated Water - Wildberry,2023-07-19,2,19.31,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-04T19:15:08Z,Lychee,2023-07-01,4,16.08,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-15T11:20:26Z,Soup - Campbells Chili,2023-06-13,3,167.22,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-20T11:23:27Z,Lamb - Pieces Diced,2023-06-12,5,85.41,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-03-30T01:31:30Z,Juice - Apple 284ml,2023-05-12,2,24.63,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-03T08:39:33Z,Tomato - Plum With Basil,2023-06-25,3,71.15,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-12T10:58:09Z,Ocean Spray - Ruby Red,2023-07-02,5,148.87,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-29T01:43:46Z,Tequila - Sauza Silver,2023-06-30,3,24.27,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-03-22T07:45:32Z,Pepper - Green Thai,2023-04-22,1,64.88,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-03-18T13:30:28Z,Cake - Sheet Strawberry,2023-05-29,4,72.27,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-05-05T16:57:36Z,Fish - Bones,2023-07-06,5,194.87,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-25T10:47:17Z,Orange Roughy 6/8 Oz,2023-07-06,3,144.86,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-03-20T17:39:20Z,Beef - Top Butt Aaa,2023-05-06,3,103.91,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-15T16:54:01Z,Pickles - Gherkins,2023-06-11,3,187.3,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-03-20T20:29:04Z,Wheat - Soft Kernal Of Wheat,2023-05-13,4,132.78,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-30T21:38:48Z,Pastrami,2023-07-19,1,153.31,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-03-25T13:16:51Z,Potatoes - Peeled,2023-06-22,3,110.03,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-06T15:13:01Z,Yeast Dry - Fermipan,2023-05-14,3,173.94,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-03-17T00:10:50Z,Lobak,2023-06-01,1,123.8,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-03-14T10:32:08Z,Pasta - Penne Lisce Dry,2023-05-15,5,83.36,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-01T05:40:47Z,Bagel - Ched Chs Presliced,2023-05-10,4,143.13,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-03-30T10:01:56Z,Cotton Wet Mop 16 Oz,2023-05-27,4,206.75,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-05-06T17:26:37Z,Muffin Batt - Carrot Spice,2023-06-14,3,43.01,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-03-22T03:58:01Z,Pop - Club Soda Can,2023-04-26,2,199.86,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-03-15T09:24:04Z,Gelatine Leaves - Envelopes,2023-06-07,4,154.74,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-05T08:03:10Z,Flour - Fast / Rapid,2023-05-14,3,196.76,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-05-11T22:39:14Z,Sausage - Meat,2023-07-28,1,234.17,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-10T20:58:46Z,Cookie Chocolate Chip With,2023-05-21,3,101.45,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-30T18:13:46Z,Turnip - White,2023-07-12,1,239.67,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-23T03:12:57Z,Thyme - Fresh,2023-06-20,3,29.72,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-05-03T21:51:16Z,Pork - Backfat,2023-06-06,3,209.35,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-03-13T00:58:13Z,Muffin - Zero Transfat,2023-04-24,3,127.44,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-05T18:20:59Z,Capon - Breast Double Wing On,2023-06-08,3,220.85,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-05-03T23:36:50Z,Bread - Assorted Rolls,2023-07-01,2,214.24,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-23T16:03:53Z,Cocktail Napkin Blue,2023-06-11,3,5.02,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-03-29T18:12:21Z,Spinach - Spinach Leaf,2023-06-18,4,71.74,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-12T13:14:42Z,Sauce Bbq Smokey,2023-05-21,1,111.91,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-09T18:46:33Z,Ecolab - Solid Fusion,2023-07-06,4,11.47,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-03-28T22:07:16Z,Napkin Colour,2023-06-01,3,95.55,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-05-05T17:09:34Z,Trueblue - Blueberry 12x473ml,2023-07-19,3,51.38,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-03-17T18:56:00Z,Pate - Cognac,2023-04-28,1,70.2,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-26T20:09:24Z,Food Colouring - Blue,2023-06-17,3,216.56,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-29T04:22:52Z,Pepper - Chipotle Canned,2023-06-15,1,82.75,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-15T14:10:49Z,Snapple Lemon Tea,2023-06-16,1,237.89,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-05-05T23:46:11Z,Fib N9 - Prague Powder,2023-07-09,1,4.5,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-03-21T09:44:43Z,Beef - Salted,2023-06-12,4,71.58,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-03-29T15:02:44Z,Dates,2023-06-06,1,191.02,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-05-07T13:46:49Z,Gherkin,2023-06-15,5,176.37,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-02T15:51:21Z,Brandy Apricot,2023-06-27,5,94.28,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-05-06T17:50:20Z,The Pop Shoppe - Root Beer,2023-07-07,4,235.13,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-15T19:14:59Z,Scallops - 10/20,2023-07-10,4,34.29,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-03-19T00:03:28Z,Beef - Kobe Striploin,2023-04-29,5,229.73,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-05-07T12:54:56Z,Blueberries - Frozen,2023-07-04,2,213.94,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-19T01:55:22Z,Pike - Frozen Fillet,2023-07-17,3,246.97,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-10T02:16:56Z,Chilli Paste Ginger Garlic,2023-07-05,2,25.07,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-17T16:32:10Z,Pastrami,2023-05-17,3,35.53,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-10T13:01:51Z,Blue Curacao - Marie Brizard,2023-06-28,3,175.6,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-03-14T15:38:59Z,Cup - Translucent 7 Oz Clear,2023-06-02,3,42.68,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-14T15:16:36Z,Trout - Smoked,2023-07-08,4,143.96,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-09T07:40:06Z,Pike - Frozen Fillet,2023-06-22,2,119.96,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-06T21:54:23Z,Table Cloth 120 Round White,2023-06-07,5,126.5,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-03-16T16:46:01Z,Cookies - Oreo 4 Pack,2023-05-26,2,167.88,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-09T23:15:57Z,Bread - Multigrain Loaf,2023-06-17,1,26.95,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-05-09T03:36:50Z,Split Peas - Yellow Dry,2023-06-24,5,45.82,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-05-01T20:43:31Z,Kiwi Gold Zespri,2023-07-01,4,8.94,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-25T19:48:45Z,Pastry - Mini French Pastries,2023-07-04,1,224.65,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-22T19:02:04Z,Muffin Mix - Oatmeal,2023-05-22,4,149.11,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-05-06T21:38:02Z,Soup Campbells Turkey Veg.,2023-06-23,5,59.82,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-05T06:32:20Z,Tart Shells - Sweet 4,2023-05-06,3,67.73,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-11T09:35:44Z,Wheat - Soft Kernal Of Wheat,2023-06-04,5,124.96,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-17T09:13:03Z,Goldschalger,2023-06-08,1,210.04,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-11T20:54:24Z,External Supplier,2023-05-31,5,142.72,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-03-19T10:34:32Z,Vol Au Vents,2023-05-26,1,182.95,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-01T08:04:43Z,Oil - Pumpkinseed,2023-06-09,1,237.3,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-03-31T17:43:09Z,Gatorade - Orange,2023-05-15,4,154.15,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-25T17:18:23Z,Swiss Chard,2023-05-25,1,242.97,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-04-14T16:11:42Z,Food Colouring - Pink,2023-05-27,4,91.88,Store,Cash
+2024-05-07 21:25:50 WARN - Discount resulted in null for order: 2023-03-24T00:32:32Z,Blueberries,2023-05-27,3,16.26,Store,Cash
+2024-05-07 21:25:50 INFO - Discounts calculated successfully.
+2024-05-07 22:23:18 WARN - Discount resulted in null for order: 2023-04-09T20:17:37Z,Pepper - Red Thai,2023-05-22,5,23.18,Store,Cash
+2024-05-07 22:23:18 WARN - Discount resulted in null for order: 2023-04-04T14:52:06Z,Sesame Seed,2023-06-08,4,62.69,Store,Cash
+2024-05-07 22:23:18 WARN - Discount resulted in null for order: 2023-04-24T04:20:27Z,Carbonated Water - Wildberry,2023-07-19,2,19.31,Store,Cash
+2024-05-07 22:23:18 WARN - Discount resulted in null for order: 2023-04-04T19:15:08Z,Lychee,2023-07-01,4,16.08,Store,Cash
+2024-05-07 22:23:18 WARN - Discount resulted in null for order: 2023-04-15T11:20:26Z,Soup - Campbells Chili,2023-06-13,3,167.22,Store,Cash
+2024-05-07 22:23:18 WARN - Discount resulted in null for order: 2023-04-20T11:23:27Z,Lamb - Pieces Diced,2023-06-12,5,85.41,Store,Cash
+2024-05-07 22:23:18 WARN - Discount resulted in null for order: 2023-03-30T01:31:30Z,Juice - Apple 284ml,2023-05-12,2,24.63,Store,Cash
+2024-05-07 22:23:18 WARN - Discount resulted in null for order: 2023-04-03T08:39:33Z,Tomato - Plum With Basil,2023-06-25,3,71.15,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-12T10:58:09Z,Ocean Spray - Ruby Red,2023-07-02,5,148.87,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-29T01:43:46Z,Tequila - Sauza Silver,2023-06-30,3,24.27,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-03-22T07:45:32Z,Pepper - Green Thai,2023-04-22,1,64.88,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-03-18T13:30:28Z,Cake - Sheet Strawberry,2023-05-29,4,72.27,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-05-05T16:57:36Z,Fish - Bones,2023-07-06,5,194.87,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-25T10:47:17Z,Orange Roughy 6/8 Oz,2023-07-06,3,144.86,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-03-20T17:39:20Z,Beef - Top Butt Aaa,2023-05-06,3,103.91,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-15T16:54:01Z,Pickles - Gherkins,2023-06-11,3,187.3,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-03-20T20:29:04Z,Wheat - Soft Kernal Of Wheat,2023-05-13,4,132.78,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-30T21:38:48Z,Pastrami,2023-07-19,1,153.31,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-03-25T13:16:51Z,Potatoes - Peeled,2023-06-22,3,110.03,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-06T15:13:01Z,Yeast Dry - Fermipan,2023-05-14,3,173.94,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-03-17T00:10:50Z,Lobak,2023-06-01,1,123.8,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-03-14T10:32:08Z,Pasta - Penne Lisce Dry,2023-05-15,5,83.36,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-01T05:40:47Z,Bagel - Ched Chs Presliced,2023-05-10,4,143.13,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-03-30T10:01:56Z,Cotton Wet Mop 16 Oz,2023-05-27,4,206.75,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-05-06T17:26:37Z,Muffin Batt - Carrot Spice,2023-06-14,3,43.01,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-03-22T03:58:01Z,Pop - Club Soda Can,2023-04-26,2,199.86,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-03-15T09:24:04Z,Gelatine Leaves - Envelopes,2023-06-07,4,154.74,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-05T08:03:10Z,Flour - Fast / Rapid,2023-05-14,3,196.76,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-05-11T22:39:14Z,Sausage - Meat,2023-07-28,1,234.17,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-10T20:58:46Z,Cookie Chocolate Chip With,2023-05-21,3,101.45,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-30T18:13:46Z,Turnip - White,2023-07-12,1,239.67,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-23T03:12:57Z,Thyme - Fresh,2023-06-20,3,29.72,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-05-03T21:51:16Z,Pork - Backfat,2023-06-06,3,209.35,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-03-13T00:58:13Z,Muffin - Zero Transfat,2023-04-24,3,127.44,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-05T18:20:59Z,Capon - Breast Double Wing On,2023-06-08,3,220.85,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-05-03T23:36:50Z,Bread - Assorted Rolls,2023-07-01,2,214.24,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-23T16:03:53Z,Cocktail Napkin Blue,2023-06-11,3,5.02,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-03-29T18:12:21Z,Spinach - Spinach Leaf,2023-06-18,4,71.74,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-12T13:14:42Z,Sauce Bbq Smokey,2023-05-21,1,111.91,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-09T18:46:33Z,Ecolab - Solid Fusion,2023-07-06,4,11.47,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-03-28T22:07:16Z,Napkin Colour,2023-06-01,3,95.55,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-05-05T17:09:34Z,Trueblue - Blueberry 12x473ml,2023-07-19,3,51.38,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-03-17T18:56:00Z,Pate - Cognac,2023-04-28,1,70.2,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-26T20:09:24Z,Food Colouring - Blue,2023-06-17,3,216.56,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-29T04:22:52Z,Pepper - Chipotle Canned,2023-06-15,1,82.75,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-15T14:10:49Z,Snapple Lemon Tea,2023-06-16,1,237.89,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-05-05T23:46:11Z,Fib N9 - Prague Powder,2023-07-09,1,4.5,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-03-21T09:44:43Z,Beef - Salted,2023-06-12,4,71.58,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-03-29T15:02:44Z,Dates,2023-06-06,1,191.02,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-05-07T13:46:49Z,Gherkin,2023-06-15,5,176.37,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-02T15:51:21Z,Brandy Apricot,2023-06-27,5,94.28,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-05-06T17:50:20Z,The Pop Shoppe - Root Beer,2023-07-07,4,235.13,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-15T19:14:59Z,Scallops - 10/20,2023-07-10,4,34.29,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-03-19T00:03:28Z,Beef - Kobe Striploin,2023-04-29,5,229.73,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-05-07T12:54:56Z,Blueberries - Frozen,2023-07-04,2,213.94,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-19T01:55:22Z,Pike - Frozen Fillet,2023-07-17,3,246.97,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-10T02:16:56Z,Chilli Paste Ginger Garlic,2023-07-05,2,25.07,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-17T16:32:10Z,Pastrami,2023-05-17,3,35.53,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-10T13:01:51Z,Blue Curacao - Marie Brizard,2023-06-28,3,175.6,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-03-14T15:38:59Z,Cup - Translucent 7 Oz Clear,2023-06-02,3,42.68,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-14T15:16:36Z,Trout - Smoked,2023-07-08,4,143.96,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-09T07:40:06Z,Pike - Frozen Fillet,2023-06-22,2,119.96,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-06T21:54:23Z,Table Cloth 120 Round White,2023-06-07,5,126.5,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-03-16T16:46:01Z,Cookies - Oreo 4 Pack,2023-05-26,2,167.88,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-09T23:15:57Z,Bread - Multigrain Loaf,2023-06-17,1,26.95,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-05-09T03:36:50Z,Split Peas - Yellow Dry,2023-06-24,5,45.82,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-05-01T20:43:31Z,Kiwi Gold Zespri,2023-07-01,4,8.94,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-25T19:48:45Z,Pastry - Mini French Pastries,2023-07-04,1,224.65,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-22T19:02:04Z,Muffin Mix - Oatmeal,2023-05-22,4,149.11,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-05-06T21:38:02Z,Soup Campbells Turkey Veg.,2023-06-23,5,59.82,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-05T06:32:20Z,Tart Shells - Sweet 4,2023-05-06,3,67.73,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-11T09:35:44Z,Wheat - Soft Kernal Of Wheat,2023-06-04,5,124.96,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-17T09:13:03Z,Goldschalger,2023-06-08,1,210.04,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-11T20:54:24Z,External Supplier,2023-05-31,5,142.72,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-03-19T10:34:32Z,Vol Au Vents,2023-05-26,1,182.95,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-01T08:04:43Z,Oil - Pumpkinseed,2023-06-09,1,237.3,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-03-31T17:43:09Z,Gatorade - Orange,2023-05-15,4,154.15,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-25T17:18:23Z,Swiss Chard,2023-05-25,1,242.97,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-04-14T16:11:42Z,Food Colouring - Pink,2023-05-27,4,91.88,Store,Cash
+2024-05-07 22:23:19 WARN - Discount resulted in null for order: 2023-03-24T00:32:32Z,Blueberries,2023-05-27,3,16.26,Store,Cash
+2024-05-07 22:23:19 INFO - Discounts calculated successfully.
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-09T20:17:37Z,Pepper - Red Thai,2023-05-22,5,23.18,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-04T14:52:06Z,Sesame Seed,2023-06-08,4,62.69,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-24T04:20:27Z,Carbonated Water - Wildberry,2023-07-19,2,19.31,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-04T19:15:08Z,Lychee,2023-07-01,4,16.08,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-15T11:20:26Z,Soup - Campbells Chili,2023-06-13,3,167.22,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-20T11:23:27Z,Lamb - Pieces Diced,2023-06-12,5,85.41,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-03-30T01:31:30Z,Juice - Apple 284ml,2023-05-12,2,24.63,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-03T08:39:33Z,Tomato - Plum With Basil,2023-06-25,3,71.15,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-12T10:58:09Z,Ocean Spray - Ruby Red,2023-07-02,5,148.87,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-29T01:43:46Z,Tequila - Sauza Silver,2023-06-30,3,24.27,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-03-22T07:45:32Z,Pepper - Green Thai,2023-04-22,1,64.88,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-03-18T13:30:28Z,Cake - Sheet Strawberry,2023-05-29,4,72.27,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-05-05T16:57:36Z,Fish - Bones,2023-07-06,5,194.87,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-25T10:47:17Z,Orange Roughy 6/8 Oz,2023-07-06,3,144.86,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-03-20T17:39:20Z,Beef - Top Butt Aaa,2023-05-06,3,103.91,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-15T16:54:01Z,Pickles - Gherkins,2023-06-11,3,187.3,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-03-20T20:29:04Z,Wheat - Soft Kernal Of Wheat,2023-05-13,4,132.78,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-30T21:38:48Z,Pastrami,2023-07-19,1,153.31,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-03-25T13:16:51Z,Potatoes - Peeled,2023-06-22,3,110.03,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-06T15:13:01Z,Yeast Dry - Fermipan,2023-05-14,3,173.94,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-03-17T00:10:50Z,Lobak,2023-06-01,1,123.8,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-03-14T10:32:08Z,Pasta - Penne Lisce Dry,2023-05-15,5,83.36,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-01T05:40:47Z,Bagel - Ched Chs Presliced,2023-05-10,4,143.13,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-03-30T10:01:56Z,Cotton Wet Mop 16 Oz,2023-05-27,4,206.75,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-05-06T17:26:37Z,Muffin Batt - Carrot Spice,2023-06-14,3,43.01,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-03-22T03:58:01Z,Pop - Club Soda Can,2023-04-26,2,199.86,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-03-15T09:24:04Z,Gelatine Leaves - Envelopes,2023-06-07,4,154.74,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-05T08:03:10Z,Flour - Fast / Rapid,2023-05-14,3,196.76,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-05-11T22:39:14Z,Sausage - Meat,2023-07-28,1,234.17,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-10T20:58:46Z,Cookie Chocolate Chip With,2023-05-21,3,101.45,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-30T18:13:46Z,Turnip - White,2023-07-12,1,239.67,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-23T03:12:57Z,Thyme - Fresh,2023-06-20,3,29.72,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-05-03T21:51:16Z,Pork - Backfat,2023-06-06,3,209.35,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-03-13T00:58:13Z,Muffin - Zero Transfat,2023-04-24,3,127.44,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-05T18:20:59Z,Capon - Breast Double Wing On,2023-06-08,3,220.85,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-05-03T23:36:50Z,Bread - Assorted Rolls,2023-07-01,2,214.24,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-23T16:03:53Z,Cocktail Napkin Blue,2023-06-11,3,5.02,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-03-29T18:12:21Z,Spinach - Spinach Leaf,2023-06-18,4,71.74,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-12T13:14:42Z,Sauce Bbq Smokey,2023-05-21,1,111.91,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-09T18:46:33Z,Ecolab - Solid Fusion,2023-07-06,4,11.47,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-03-28T22:07:16Z,Napkin Colour,2023-06-01,3,95.55,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-05-05T17:09:34Z,Trueblue - Blueberry 12x473ml,2023-07-19,3,51.38,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-03-17T18:56:00Z,Pate - Cognac,2023-04-28,1,70.2,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-26T20:09:24Z,Food Colouring - Blue,2023-06-17,3,216.56,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-29T04:22:52Z,Pepper - Chipotle Canned,2023-06-15,1,82.75,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-15T14:10:49Z,Snapple Lemon Tea,2023-06-16,1,237.89,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-05-05T23:46:11Z,Fib N9 - Prague Powder,2023-07-09,1,4.5,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-03-21T09:44:43Z,Beef - Salted,2023-06-12,4,71.58,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-03-29T15:02:44Z,Dates,2023-06-06,1,191.02,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-05-07T13:46:49Z,Gherkin,2023-06-15,5,176.37,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-02T15:51:21Z,Brandy Apricot,2023-06-27,5,94.28,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-05-06T17:50:20Z,The Pop Shoppe - Root Beer,2023-07-07,4,235.13,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-15T19:14:59Z,Scallops - 10/20,2023-07-10,4,34.29,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-03-19T00:03:28Z,Beef - Kobe Striploin,2023-04-29,5,229.73,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-05-07T12:54:56Z,Blueberries - Frozen,2023-07-04,2,213.94,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-19T01:55:22Z,Pike - Frozen Fillet,2023-07-17,3,246.97,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-10T02:16:56Z,Chilli Paste Ginger Garlic,2023-07-05,2,25.07,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-17T16:32:10Z,Pastrami,2023-05-17,3,35.53,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-10T13:01:51Z,Blue Curacao - Marie Brizard,2023-06-28,3,175.6,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-03-14T15:38:59Z,Cup - Translucent 7 Oz Clear,2023-06-02,3,42.68,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-14T15:16:36Z,Trout - Smoked,2023-07-08,4,143.96,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-09T07:40:06Z,Pike - Frozen Fillet,2023-06-22,2,119.96,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-06T21:54:23Z,Table Cloth 120 Round White,2023-06-07,5,126.5,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-03-16T16:46:01Z,Cookies - Oreo 4 Pack,2023-05-26,2,167.88,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-09T23:15:57Z,Bread - Multigrain Loaf,2023-06-17,1,26.95,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-05-09T03:36:50Z,Split Peas - Yellow Dry,2023-06-24,5,45.82,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-05-01T20:43:31Z,Kiwi Gold Zespri,2023-07-01,4,8.94,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-25T19:48:45Z,Pastry - Mini French Pastries,2023-07-04,1,224.65,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-22T19:02:04Z,Muffin Mix - Oatmeal,2023-05-22,4,149.11,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-05-06T21:38:02Z,Soup Campbells Turkey Veg.,2023-06-23,5,59.82,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-05T06:32:20Z,Tart Shells - Sweet 4,2023-05-06,3,67.73,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-11T09:35:44Z,Wheat - Soft Kernal Of Wheat,2023-06-04,5,124.96,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-17T09:13:03Z,Goldschalger,2023-06-08,1,210.04,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-11T20:54:24Z,External Supplier,2023-05-31,5,142.72,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-03-19T10:34:32Z,Vol Au Vents,2023-05-26,1,182.95,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-01T08:04:43Z,Oil - Pumpkinseed,2023-06-09,1,237.3,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-03-31T17:43:09Z,Gatorade - Orange,2023-05-15,4,154.15,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-25T17:18:23Z,Swiss Chard,2023-05-25,1,242.97,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-04-14T16:11:42Z,Food Colouring - Pink,2023-05-27,4,91.88,Store,Cash
+2024-05-07 22:25:33 WARN - Discount resulted in null for order: 2023-03-24T00:32:32Z,Blueberries,2023-05-27,3,16.26,Store,Cash
+2024-05-07 22:25:33 INFO - Discounts calculated successfully.
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-09T20:17:37Z,Pepper - Red Thai,2023-05-22,5,23.18,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-04T14:52:06Z,Sesame Seed,2023-06-08,4,62.69,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-24T04:20:27Z,Carbonated Water - Wildberry,2023-07-19,2,19.31,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-04T19:15:08Z,Lychee,2023-07-01,4,16.08,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-15T11:20:26Z,Soup - Campbells Chili,2023-06-13,3,167.22,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-20T11:23:27Z,Lamb - Pieces Diced,2023-06-12,5,85.41,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-03-30T01:31:30Z,Juice - Apple 284ml,2023-05-12,2,24.63,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-03T08:39:33Z,Tomato - Plum With Basil,2023-06-25,3,71.15,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-12T10:58:09Z,Ocean Spray - Ruby Red,2023-07-02,5,148.87,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-29T01:43:46Z,Tequila - Sauza Silver,2023-06-30,3,24.27,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-03-22T07:45:32Z,Pepper - Green Thai,2023-04-22,1,64.88,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-03-18T13:30:28Z,Cake - Sheet Strawberry,2023-05-29,4,72.27,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-05-05T16:57:36Z,Fish - Bones,2023-07-06,5,194.87,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-25T10:47:17Z,Orange Roughy 6/8 Oz,2023-07-06,3,144.86,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-03-20T17:39:20Z,Beef - Top Butt Aaa,2023-05-06,3,103.91,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-15T16:54:01Z,Pickles - Gherkins,2023-06-11,3,187.3,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-03-20T20:29:04Z,Wheat - Soft Kernal Of Wheat,2023-05-13,4,132.78,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-30T21:38:48Z,Pastrami,2023-07-19,1,153.31,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-03-25T13:16:51Z,Potatoes - Peeled,2023-06-22,3,110.03,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-06T15:13:01Z,Yeast Dry - Fermipan,2023-05-14,3,173.94,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-03-17T00:10:50Z,Lobak,2023-06-01,1,123.8,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-03-14T10:32:08Z,Pasta - Penne Lisce Dry,2023-05-15,5,83.36,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-01T05:40:47Z,Bagel - Ched Chs Presliced,2023-05-10,4,143.13,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-03-30T10:01:56Z,Cotton Wet Mop 16 Oz,2023-05-27,4,206.75,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-05-06T17:26:37Z,Muffin Batt - Carrot Spice,2023-06-14,3,43.01,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-03-22T03:58:01Z,Pop - Club Soda Can,2023-04-26,2,199.86,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-03-15T09:24:04Z,Gelatine Leaves - Envelopes,2023-06-07,4,154.74,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-05T08:03:10Z,Flour - Fast / Rapid,2023-05-14,3,196.76,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-05-11T22:39:14Z,Sausage - Meat,2023-07-28,1,234.17,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-10T20:58:46Z,Cookie Chocolate Chip With,2023-05-21,3,101.45,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-30T18:13:46Z,Turnip - White,2023-07-12,1,239.67,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-23T03:12:57Z,Thyme - Fresh,2023-06-20,3,29.72,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-05-03T21:51:16Z,Pork - Backfat,2023-06-06,3,209.35,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-03-13T00:58:13Z,Muffin - Zero Transfat,2023-04-24,3,127.44,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-05T18:20:59Z,Capon - Breast Double Wing On,2023-06-08,3,220.85,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-05-03T23:36:50Z,Bread - Assorted Rolls,2023-07-01,2,214.24,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-23T16:03:53Z,Cocktail Napkin Blue,2023-06-11,3,5.02,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-03-29T18:12:21Z,Spinach - Spinach Leaf,2023-06-18,4,71.74,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-12T13:14:42Z,Sauce Bbq Smokey,2023-05-21,1,111.91,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-09T18:46:33Z,Ecolab - Solid Fusion,2023-07-06,4,11.47,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-03-28T22:07:16Z,Napkin Colour,2023-06-01,3,95.55,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-05-05T17:09:34Z,Trueblue - Blueberry 12x473ml,2023-07-19,3,51.38,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-03-17T18:56:00Z,Pate - Cognac,2023-04-28,1,70.2,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-26T20:09:24Z,Food Colouring - Blue,2023-06-17,3,216.56,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-29T04:22:52Z,Pepper - Chipotle Canned,2023-06-15,1,82.75,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-15T14:10:49Z,Snapple Lemon Tea,2023-06-16,1,237.89,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-05-05T23:46:11Z,Fib N9 - Prague Powder,2023-07-09,1,4.5,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-03-21T09:44:43Z,Beef - Salted,2023-06-12,4,71.58,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-03-29T15:02:44Z,Dates,2023-06-06,1,191.02,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-05-07T13:46:49Z,Gherkin,2023-06-15,5,176.37,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-02T15:51:21Z,Brandy Apricot,2023-06-27,5,94.28,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-05-06T17:50:20Z,The Pop Shoppe - Root Beer,2023-07-07,4,235.13,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-15T19:14:59Z,Scallops - 10/20,2023-07-10,4,34.29,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-03-19T00:03:28Z,Beef - Kobe Striploin,2023-04-29,5,229.73,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-05-07T12:54:56Z,Blueberries - Frozen,2023-07-04,2,213.94,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-19T01:55:22Z,Pike - Frozen Fillet,2023-07-17,3,246.97,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-10T02:16:56Z,Chilli Paste Ginger Garlic,2023-07-05,2,25.07,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-17T16:32:10Z,Pastrami,2023-05-17,3,35.53,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-10T13:01:51Z,Blue Curacao - Marie Brizard,2023-06-28,3,175.6,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-03-14T15:38:59Z,Cup - Translucent 7 Oz Clear,2023-06-02,3,42.68,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-14T15:16:36Z,Trout - Smoked,2023-07-08,4,143.96,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-09T07:40:06Z,Pike - Frozen Fillet,2023-06-22,2,119.96,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-06T21:54:23Z,Table Cloth 120 Round White,2023-06-07,5,126.5,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-03-16T16:46:01Z,Cookies - Oreo 4 Pack,2023-05-26,2,167.88,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-09T23:15:57Z,Bread - Multigrain Loaf,2023-06-17,1,26.95,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-05-09T03:36:50Z,Split Peas - Yellow Dry,2023-06-24,5,45.82,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-05-01T20:43:31Z,Kiwi Gold Zespri,2023-07-01,4,8.94,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-25T19:48:45Z,Pastry - Mini French Pastries,2023-07-04,1,224.65,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-22T19:02:04Z,Muffin Mix - Oatmeal,2023-05-22,4,149.11,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-05-06T21:38:02Z,Soup Campbells Turkey Veg.,2023-06-23,5,59.82,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-05T06:32:20Z,Tart Shells - Sweet 4,2023-05-06,3,67.73,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-11T09:35:44Z,Wheat - Soft Kernal Of Wheat,2023-06-04,5,124.96,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-17T09:13:03Z,Goldschalger,2023-06-08,1,210.04,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-11T20:54:24Z,External Supplier,2023-05-31,5,142.72,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-03-19T10:34:32Z,Vol Au Vents,2023-05-26,1,182.95,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-01T08:04:43Z,Oil - Pumpkinseed,2023-06-09,1,237.3,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-03-31T17:43:09Z,Gatorade - Orange,2023-05-15,4,154.15,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-25T17:18:23Z,Swiss Chard,2023-05-25,1,242.97,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-04-14T16:11:42Z,Food Colouring - Pink,2023-05-27,4,91.88,Store,Cash
+2024-05-07 22:27:45 WARN - Discount resulted in null for order: 2023-03-24T00:32:32Z,Blueberries,2023-05-27,3,16.26,Store,Cash
+2024-05-07 22:27:45 INFO - Discounts calculated successfully.
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-09T20:17:37Z,Pepper - Red Thai,2023-05-22,5,23.18,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-04T14:52:06Z,Sesame Seed,2023-06-08,4,62.69,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-24T04:20:27Z,Carbonated Water - Wildberry,2023-07-19,2,19.31,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-04T19:15:08Z,Lychee,2023-07-01,4,16.08,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-15T11:20:26Z,Soup - Campbells Chili,2023-06-13,3,167.22,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-20T11:23:27Z,Lamb - Pieces Diced,2023-06-12,5,85.41,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-03-30T01:31:30Z,Juice - Apple 284ml,2023-05-12,2,24.63,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-03T08:39:33Z,Tomato - Plum With Basil,2023-06-25,3,71.15,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-12T10:58:09Z,Ocean Spray - Ruby Red,2023-07-02,5,148.87,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-29T01:43:46Z,Tequila - Sauza Silver,2023-06-30,3,24.27,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-03-22T07:45:32Z,Pepper - Green Thai,2023-04-22,1,64.88,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-03-18T13:30:28Z,Cake - Sheet Strawberry,2023-05-29,4,72.27,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-05-05T16:57:36Z,Fish - Bones,2023-07-06,5,194.87,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-25T10:47:17Z,Orange Roughy 6/8 Oz,2023-07-06,3,144.86,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-03-20T17:39:20Z,Beef - Top Butt Aaa,2023-05-06,3,103.91,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-15T16:54:01Z,Pickles - Gherkins,2023-06-11,3,187.3,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-03-20T20:29:04Z,Wheat - Soft Kernal Of Wheat,2023-05-13,4,132.78,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-30T21:38:48Z,Pastrami,2023-07-19,1,153.31,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-03-25T13:16:51Z,Potatoes - Peeled,2023-06-22,3,110.03,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-06T15:13:01Z,Yeast Dry - Fermipan,2023-05-14,3,173.94,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-03-17T00:10:50Z,Lobak,2023-06-01,1,123.8,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-03-14T10:32:08Z,Pasta - Penne Lisce Dry,2023-05-15,5,83.36,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-01T05:40:47Z,Bagel - Ched Chs Presliced,2023-05-10,4,143.13,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-03-30T10:01:56Z,Cotton Wet Mop 16 Oz,2023-05-27,4,206.75,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-05-06T17:26:37Z,Muffin Batt - Carrot Spice,2023-06-14,3,43.01,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-03-22T03:58:01Z,Pop - Club Soda Can,2023-04-26,2,199.86,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-03-15T09:24:04Z,Gelatine Leaves - Envelopes,2023-06-07,4,154.74,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-05T08:03:10Z,Flour - Fast / Rapid,2023-05-14,3,196.76,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-05-11T22:39:14Z,Sausage - Meat,2023-07-28,1,234.17,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-10T20:58:46Z,Cookie Chocolate Chip With,2023-05-21,3,101.45,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-30T18:13:46Z,Turnip - White,2023-07-12,1,239.67,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-23T03:12:57Z,Thyme - Fresh,2023-06-20,3,29.72,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-05-03T21:51:16Z,Pork - Backfat,2023-06-06,3,209.35,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-03-13T00:58:13Z,Muffin - Zero Transfat,2023-04-24,3,127.44,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-05T18:20:59Z,Capon - Breast Double Wing On,2023-06-08,3,220.85,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-05-03T23:36:50Z,Bread - Assorted Rolls,2023-07-01,2,214.24,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-23T16:03:53Z,Cocktail Napkin Blue,2023-06-11,3,5.02,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-03-29T18:12:21Z,Spinach - Spinach Leaf,2023-06-18,4,71.74,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-12T13:14:42Z,Sauce Bbq Smokey,2023-05-21,1,111.91,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-09T18:46:33Z,Ecolab - Solid Fusion,2023-07-06,4,11.47,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-03-28T22:07:16Z,Napkin Colour,2023-06-01,3,95.55,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-05-05T17:09:34Z,Trueblue - Blueberry 12x473ml,2023-07-19,3,51.38,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-03-17T18:56:00Z,Pate - Cognac,2023-04-28,1,70.2,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-26T20:09:24Z,Food Colouring - Blue,2023-06-17,3,216.56,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-29T04:22:52Z,Pepper - Chipotle Canned,2023-06-15,1,82.75,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-15T14:10:49Z,Snapple Lemon Tea,2023-06-16,1,237.89,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-05-05T23:46:11Z,Fib N9 - Prague Powder,2023-07-09,1,4.5,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-03-21T09:44:43Z,Beef - Salted,2023-06-12,4,71.58,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-03-29T15:02:44Z,Dates,2023-06-06,1,191.02,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-05-07T13:46:49Z,Gherkin,2023-06-15,5,176.37,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-02T15:51:21Z,Brandy Apricot,2023-06-27,5,94.28,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-05-06T17:50:20Z,The Pop Shoppe - Root Beer,2023-07-07,4,235.13,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-15T19:14:59Z,Scallops - 10/20,2023-07-10,4,34.29,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-03-19T00:03:28Z,Beef - Kobe Striploin,2023-04-29,5,229.73,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-05-07T12:54:56Z,Blueberries - Frozen,2023-07-04,2,213.94,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-19T01:55:22Z,Pike - Frozen Fillet,2023-07-17,3,246.97,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-10T02:16:56Z,Chilli Paste Ginger Garlic,2023-07-05,2,25.07,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-17T16:32:10Z,Pastrami,2023-05-17,3,35.53,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-10T13:01:51Z,Blue Curacao - Marie Brizard,2023-06-28,3,175.6,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-03-14T15:38:59Z,Cup - Translucent 7 Oz Clear,2023-06-02,3,42.68,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-14T15:16:36Z,Trout - Smoked,2023-07-08,4,143.96,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-09T07:40:06Z,Pike - Frozen Fillet,2023-06-22,2,119.96,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-06T21:54:23Z,Table Cloth 120 Round White,2023-06-07,5,126.5,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-03-16T16:46:01Z,Cookies - Oreo 4 Pack,2023-05-26,2,167.88,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-09T23:15:57Z,Bread - Multigrain Loaf,2023-06-17,1,26.95,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-05-09T03:36:50Z,Split Peas - Yellow Dry,2023-06-24,5,45.82,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-05-01T20:43:31Z,Kiwi Gold Zespri,2023-07-01,4,8.94,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-25T19:48:45Z,Pastry - Mini French Pastries,2023-07-04,1,224.65,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-22T19:02:04Z,Muffin Mix - Oatmeal,2023-05-22,4,149.11,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-05-06T21:38:02Z,Soup Campbells Turkey Veg.,2023-06-23,5,59.82,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-05T06:32:20Z,Tart Shells - Sweet 4,2023-05-06,3,67.73,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-11T09:35:44Z,Wheat - Soft Kernal Of Wheat,2023-06-04,5,124.96,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-17T09:13:03Z,Goldschalger,2023-06-08,1,210.04,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-11T20:54:24Z,External Supplier,2023-05-31,5,142.72,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-03-19T10:34:32Z,Vol Au Vents,2023-05-26,1,182.95,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-01T08:04:43Z,Oil - Pumpkinseed,2023-06-09,1,237.3,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-03-31T17:43:09Z,Gatorade - Orange,2023-05-15,4,154.15,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-25T17:18:23Z,Swiss Chard,2023-05-25,1,242.97,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-04-14T16:11:42Z,Food Colouring - Pink,2023-05-27,4,91.88,Store,Cash
+2024-05-07 23:08:05 WARN - Discount resulted in null for order: 2023-03-24T00:32:32Z,Blueberries,2023-05-27,3,16.26,Store,Cash
+2024-05-07 23:08:05 INFO - Discounts calculated successfully.
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-09T20:17:37Z,Pepper - Red Thai,2023-05-22,5,23.18,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-04T14:52:06Z,Sesame Seed,2023-06-08,4,62.69,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-24T04:20:27Z,Carbonated Water - Wildberry,2023-07-19,2,19.31,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-04T19:15:08Z,Lychee,2023-07-01,4,16.08,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-15T11:20:26Z,Soup - Campbells Chili,2023-06-13,3,167.22,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-20T11:23:27Z,Lamb - Pieces Diced,2023-06-12,5,85.41,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-30T01:31:30Z,Juice - Apple 284ml,2023-05-12,2,24.63,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-03T08:39:33Z,Tomato - Plum With Basil,2023-06-25,3,71.15,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-12T10:58:09Z,Ocean Spray - Ruby Red,2023-07-02,5,148.87,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-29T01:43:46Z,Tequila - Sauza Silver,2023-06-30,3,24.27,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-22T07:45:32Z,Pepper - Green Thai,2023-04-22,1,64.88,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-18T13:30:28Z,Cake - Sheet Strawberry,2023-05-29,4,72.27,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-05-05T16:57:36Z,Fish - Bones,2023-07-06,5,194.87,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-25T10:47:17Z,Orange Roughy 6/8 Oz,2023-07-06,3,144.86,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-20T17:39:20Z,Beef - Top Butt Aaa,2023-05-06,3,103.91,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-15T16:54:01Z,Pickles - Gherkins,2023-06-11,3,187.3,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-20T20:29:04Z,Wheat - Soft Kernal Of Wheat,2023-05-13,4,132.78,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-30T21:38:48Z,Pastrami,2023-07-19,1,153.31,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-25T13:16:51Z,Potatoes - Peeled,2023-06-22,3,110.03,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-06T15:13:01Z,Yeast Dry - Fermipan,2023-05-14,3,173.94,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-17T00:10:50Z,Lobak,2023-06-01,1,123.8,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-14T10:32:08Z,Pasta - Penne Lisce Dry,2023-05-15,5,83.36,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-01T05:40:47Z,Bagel - Ched Chs Presliced,2023-05-10,4,143.13,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-30T10:01:56Z,Cotton Wet Mop 16 Oz,2023-05-27,4,206.75,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-05-06T17:26:37Z,Muffin Batt - Carrot Spice,2023-06-14,3,43.01,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-22T03:58:01Z,Pop - Club Soda Can,2023-04-26,2,199.86,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-15T09:24:04Z,Gelatine Leaves - Envelopes,2023-06-07,4,154.74,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-05T08:03:10Z,Flour - Fast / Rapid,2023-05-14,3,196.76,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-05-11T22:39:14Z,Sausage - Meat,2023-07-28,1,234.17,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-10T20:58:46Z,Cookie Chocolate Chip With,2023-05-21,3,101.45,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-30T18:13:46Z,Turnip - White,2023-07-12,1,239.67,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-23T03:12:57Z,Thyme - Fresh,2023-06-20,3,29.72,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-05-03T21:51:16Z,Pork - Backfat,2023-06-06,3,209.35,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-13T00:58:13Z,Muffin - Zero Transfat,2023-04-24,3,127.44,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-05T18:20:59Z,Capon - Breast Double Wing On,2023-06-08,3,220.85,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-05-03T23:36:50Z,Bread - Assorted Rolls,2023-07-01,2,214.24,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-23T16:03:53Z,Cocktail Napkin Blue,2023-06-11,3,5.02,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-29T18:12:21Z,Spinach - Spinach Leaf,2023-06-18,4,71.74,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-12T13:14:42Z,Sauce Bbq Smokey,2023-05-21,1,111.91,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-09T18:46:33Z,Ecolab - Solid Fusion,2023-07-06,4,11.47,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-28T22:07:16Z,Napkin Colour,2023-06-01,3,95.55,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-05-05T17:09:34Z,Trueblue - Blueberry 12x473ml,2023-07-19,3,51.38,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-17T18:56:00Z,Pate - Cognac,2023-04-28,1,70.2,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-26T20:09:24Z,Food Colouring - Blue,2023-06-17,3,216.56,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-29T04:22:52Z,Pepper - Chipotle Canned,2023-06-15,1,82.75,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-15T14:10:49Z,Snapple Lemon Tea,2023-06-16,1,237.89,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-05-05T23:46:11Z,Fib N9 - Prague Powder,2023-07-09,1,4.5,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-21T09:44:43Z,Beef - Salted,2023-06-12,4,71.58,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-29T15:02:44Z,Dates,2023-06-06,1,191.02,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-05-07T13:46:49Z,Gherkin,2023-06-15,5,176.37,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-02T15:51:21Z,Brandy Apricot,2023-06-27,5,94.28,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-05-06T17:50:20Z,The Pop Shoppe - Root Beer,2023-07-07,4,235.13,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-15T19:14:59Z,Scallops - 10/20,2023-07-10,4,34.29,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-19T00:03:28Z,Beef - Kobe Striploin,2023-04-29,5,229.73,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-05-07T12:54:56Z,Blueberries - Frozen,2023-07-04,2,213.94,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-19T01:55:22Z,Pike - Frozen Fillet,2023-07-17,3,246.97,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-10T02:16:56Z,Chilli Paste Ginger Garlic,2023-07-05,2,25.07,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-17T16:32:10Z,Pastrami,2023-05-17,3,35.53,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-10T13:01:51Z,Blue Curacao - Marie Brizard,2023-06-28,3,175.6,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-14T15:38:59Z,Cup - Translucent 7 Oz Clear,2023-06-02,3,42.68,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-14T15:16:36Z,Trout - Smoked,2023-07-08,4,143.96,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-09T07:40:06Z,Pike - Frozen Fillet,2023-06-22,2,119.96,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-06T21:54:23Z,Table Cloth 120 Round White,2023-06-07,5,126.5,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-16T16:46:01Z,Cookies - Oreo 4 Pack,2023-05-26,2,167.88,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-09T23:15:57Z,Bread - Multigrain Loaf,2023-06-17,1,26.95,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-05-09T03:36:50Z,Split Peas - Yellow Dry,2023-06-24,5,45.82,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-05-01T20:43:31Z,Kiwi Gold Zespri,2023-07-01,4,8.94,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-25T19:48:45Z,Pastry - Mini French Pastries,2023-07-04,1,224.65,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-22T19:02:04Z,Muffin Mix - Oatmeal,2023-05-22,4,149.11,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-05-06T21:38:02Z,Soup Campbells Turkey Veg.,2023-06-23,5,59.82,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-05T06:32:20Z,Tart Shells - Sweet 4,2023-05-06,3,67.73,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-11T09:35:44Z,Wheat - Soft Kernal Of Wheat,2023-06-04,5,124.96,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-17T09:13:03Z,Goldschalger,2023-06-08,1,210.04,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-11T20:54:24Z,External Supplier,2023-05-31,5,142.72,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-19T10:34:32Z,Vol Au Vents,2023-05-26,1,182.95,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-01T08:04:43Z,Oil - Pumpkinseed,2023-06-09,1,237.3,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-31T17:43:09Z,Gatorade - Orange,2023-05-15,4,154.15,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-25T17:18:23Z,Swiss Chard,2023-05-25,1,242.97,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-14T16:11:42Z,Food Colouring - Pink,2023-05-27,4,91.88,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-24T00:32:32Z,Blueberries,2023-05-27,3,16.26,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-09T20:17:37Z,Pepper - Red Thai,2023-05-22,5,23.18,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-04T14:52:06Z,Sesame Seed,2023-06-08,4,62.69,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-24T04:20:27Z,Carbonated Water - Wildberry,2023-07-19,2,19.31,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-04T19:15:08Z,Lychee,2023-07-01,4,16.08,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-15T11:20:26Z,Soup - Campbells Chili,2023-06-13,3,167.22,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-20T11:23:27Z,Lamb - Pieces Diced,2023-06-12,5,85.41,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-30T01:31:30Z,Juice - Apple 284ml,2023-05-12,2,24.63,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-03T08:39:33Z,Tomato - Plum With Basil,2023-06-25,3,71.15,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-12T10:58:09Z,Ocean Spray - Ruby Red,2023-07-02,5,148.87,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-29T01:43:46Z,Tequila - Sauza Silver,2023-06-30,3,24.27,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-22T07:45:32Z,Pepper - Green Thai,2023-04-22,1,64.88,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-18T13:30:28Z,Cake - Sheet Strawberry,2023-05-29,4,72.27,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-05-05T16:57:36Z,Fish - Bones,2023-07-06,5,194.87,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-25T10:47:17Z,Orange Roughy 6/8 Oz,2023-07-06,3,144.86,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-20T17:39:20Z,Beef - Top Butt Aaa,2023-05-06,3,103.91,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-15T16:54:01Z,Pickles - Gherkins,2023-06-11,3,187.3,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-20T20:29:04Z,Wheat - Soft Kernal Of Wheat,2023-05-13,4,132.78,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-30T21:38:48Z,Pastrami,2023-07-19,1,153.31,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-25T13:16:51Z,Potatoes - Peeled,2023-06-22,3,110.03,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-06T15:13:01Z,Yeast Dry - Fermipan,2023-05-14,3,173.94,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-17T00:10:50Z,Lobak,2023-06-01,1,123.8,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-14T10:32:08Z,Pasta - Penne Lisce Dry,2023-05-15,5,83.36,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-01T05:40:47Z,Bagel - Ched Chs Presliced,2023-05-10,4,143.13,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-30T10:01:56Z,Cotton Wet Mop 16 Oz,2023-05-27,4,206.75,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-05-06T17:26:37Z,Muffin Batt - Carrot Spice,2023-06-14,3,43.01,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-22T03:58:01Z,Pop - Club Soda Can,2023-04-26,2,199.86,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-15T09:24:04Z,Gelatine Leaves - Envelopes,2023-06-07,4,154.74,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-05T08:03:10Z,Flour - Fast / Rapid,2023-05-14,3,196.76,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-05-11T22:39:14Z,Sausage - Meat,2023-07-28,1,234.17,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-10T20:58:46Z,Cookie Chocolate Chip With,2023-05-21,3,101.45,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-30T18:13:46Z,Turnip - White,2023-07-12,1,239.67,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-23T03:12:57Z,Thyme - Fresh,2023-06-20,3,29.72,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-05-03T21:51:16Z,Pork - Backfat,2023-06-06,3,209.35,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-13T00:58:13Z,Muffin - Zero Transfat,2023-04-24,3,127.44,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-05T18:20:59Z,Capon - Breast Double Wing On,2023-06-08,3,220.85,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-05-03T23:36:50Z,Bread - Assorted Rolls,2023-07-01,2,214.24,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-23T16:03:53Z,Cocktail Napkin Blue,2023-06-11,3,5.02,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-29T18:12:21Z,Spinach - Spinach Leaf,2023-06-18,4,71.74,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-12T13:14:42Z,Sauce Bbq Smokey,2023-05-21,1,111.91,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-09T18:46:33Z,Ecolab - Solid Fusion,2023-07-06,4,11.47,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-28T22:07:16Z,Napkin Colour,2023-06-01,3,95.55,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-05-05T17:09:34Z,Trueblue - Blueberry 12x473ml,2023-07-19,3,51.38,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-17T18:56:00Z,Pate - Cognac,2023-04-28,1,70.2,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-26T20:09:24Z,Food Colouring - Blue,2023-06-17,3,216.56,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-29T04:22:52Z,Pepper - Chipotle Canned,2023-06-15,1,82.75,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-15T14:10:49Z,Snapple Lemon Tea,2023-06-16,1,237.89,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-05-05T23:46:11Z,Fib N9 - Prague Powder,2023-07-09,1,4.5,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-21T09:44:43Z,Beef - Salted,2023-06-12,4,71.58,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-29T15:02:44Z,Dates,2023-06-06,1,191.02,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-05-07T13:46:49Z,Gherkin,2023-06-15,5,176.37,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-02T15:51:21Z,Brandy Apricot,2023-06-27,5,94.28,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-05-06T17:50:20Z,The Pop Shoppe - Root Beer,2023-07-07,4,235.13,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-15T19:14:59Z,Scallops - 10/20,2023-07-10,4,34.29,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-19T00:03:28Z,Beef - Kobe Striploin,2023-04-29,5,229.73,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-05-07T12:54:56Z,Blueberries - Frozen,2023-07-04,2,213.94,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-19T01:55:22Z,Pike - Frozen Fillet,2023-07-17,3,246.97,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-10T02:16:56Z,Chilli Paste Ginger Garlic,2023-07-05,2,25.07,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-17T16:32:10Z,Pastrami,2023-05-17,3,35.53,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-10T13:01:51Z,Blue Curacao - Marie Brizard,2023-06-28,3,175.6,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-14T15:38:59Z,Cup - Translucent 7 Oz Clear,2023-06-02,3,42.68,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-14T15:16:36Z,Trout - Smoked,2023-07-08,4,143.96,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-09T07:40:06Z,Pike - Frozen Fillet,2023-06-22,2,119.96,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-06T21:54:23Z,Table Cloth 120 Round White,2023-06-07,5,126.5,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-16T16:46:01Z,Cookies - Oreo 4 Pack,2023-05-26,2,167.88,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-09T23:15:57Z,Bread - Multigrain Loaf,2023-06-17,1,26.95,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-05-09T03:36:50Z,Split Peas - Yellow Dry,2023-06-24,5,45.82,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-05-01T20:43:31Z,Kiwi Gold Zespri,2023-07-01,4,8.94,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-25T19:48:45Z,Pastry - Mini French Pastries,2023-07-04,1,224.65,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-22T19:02:04Z,Muffin Mix - Oatmeal,2023-05-22,4,149.11,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-05-06T21:38:02Z,Soup Campbells Turkey Veg.,2023-06-23,5,59.82,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-05T06:32:20Z,Tart Shells - Sweet 4,2023-05-06,3,67.73,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-11T09:35:44Z,Wheat - Soft Kernal Of Wheat,2023-06-04,5,124.96,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-17T09:13:03Z,Goldschalger,2023-06-08,1,210.04,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-11T20:54:24Z,External Supplier,2023-05-31,5,142.72,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-19T10:34:32Z,Vol Au Vents,2023-05-26,1,182.95,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-01T08:04:43Z,Oil - Pumpkinseed,2023-06-09,1,237.3,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-31T17:43:09Z,Gatorade - Orange,2023-05-15,4,154.15,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-25T17:18:23Z,Swiss Chard,2023-05-25,1,242.97,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-04-14T16:11:42Z,Food Colouring - Pink,2023-05-27,4,91.88,Store,Cash)
+2024-05-07 23:17:57 WARN - Discount resulted in null for order: Discount(2023-03-24T00:32:32Z,Blueberries,2023-05-27,3,16.26,Store,Cash)
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-09T20:17:37Z,Pepper - Red Thai,2023-05-22,5,23.18,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-04T14:52:06Z,Sesame Seed,2023-06-08,4,62.69,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-24T04:20:27Z,Carbonated Water - Wildberry,2023-07-19,2,19.31,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-04T19:15:08Z,Lychee,2023-07-01,4,16.08,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-15T11:20:26Z,Soup - Campbells Chili,2023-06-13,3,167.22,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-20T11:23:27Z,Lamb - Pieces Diced,2023-06-12,5,85.41,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-03-30T01:31:30Z,Juice - Apple 284ml,2023-05-12,2,24.63,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-03T08:39:33Z,Tomato - Plum With Basil,2023-06-25,3,71.15,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-12T10:58:09Z,Ocean Spray - Ruby Red,2023-07-02,5,148.87,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-29T01:43:46Z,Tequila - Sauza Silver,2023-06-30,3,24.27,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-03-22T07:45:32Z,Pepper - Green Thai,2023-04-22,1,64.88,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-03-18T13:30:28Z,Cake - Sheet Strawberry,2023-05-29,4,72.27,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-05-05T16:57:36Z,Fish - Bones,2023-07-06,5,194.87,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-25T10:47:17Z,Orange Roughy 6/8 Oz,2023-07-06,3,144.86,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-03-20T17:39:20Z,Beef - Top Butt Aaa,2023-05-06,3,103.91,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-15T16:54:01Z,Pickles - Gherkins,2023-06-11,3,187.3,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-03-20T20:29:04Z,Wheat - Soft Kernal Of Wheat,2023-05-13,4,132.78,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-30T21:38:48Z,Pastrami,2023-07-19,1,153.31,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-03-25T13:16:51Z,Potatoes - Peeled,2023-06-22,3,110.03,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-06T15:13:01Z,Yeast Dry - Fermipan,2023-05-14,3,173.94,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-03-17T00:10:50Z,Lobak,2023-06-01,1,123.8,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-03-14T10:32:08Z,Pasta - Penne Lisce Dry,2023-05-15,5,83.36,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-01T05:40:47Z,Bagel - Ched Chs Presliced,2023-05-10,4,143.13,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-03-30T10:01:56Z,Cotton Wet Mop 16 Oz,2023-05-27,4,206.75,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-05-06T17:26:37Z,Muffin Batt - Carrot Spice,2023-06-14,3,43.01,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-03-22T03:58:01Z,Pop - Club Soda Can,2023-04-26,2,199.86,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-03-15T09:24:04Z,Gelatine Leaves - Envelopes,2023-06-07,4,154.74,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-05T08:03:10Z,Flour - Fast / Rapid,2023-05-14,3,196.76,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-05-11T22:39:14Z,Sausage - Meat,2023-07-28,1,234.17,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-10T20:58:46Z,Cookie Chocolate Chip With,2023-05-21,3,101.45,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-30T18:13:46Z,Turnip - White,2023-07-12,1,239.67,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-23T03:12:57Z,Thyme - Fresh,2023-06-20,3,29.72,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-05-03T21:51:16Z,Pork - Backfat,2023-06-06,3,209.35,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-03-13T00:58:13Z,Muffin - Zero Transfat,2023-04-24,3,127.44,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-05T18:20:59Z,Capon - Breast Double Wing On,2023-06-08,3,220.85,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-05-03T23:36:50Z,Bread - Assorted Rolls,2023-07-01,2,214.24,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-23T16:03:53Z,Cocktail Napkin Blue,2023-06-11,3,5.02,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-03-29T18:12:21Z,Spinach - Spinach Leaf,2023-06-18,4,71.74,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-12T13:14:42Z,Sauce Bbq Smokey,2023-05-21,1,111.91,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-09T18:46:33Z,Ecolab - Solid Fusion,2023-07-06,4,11.47,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-03-28T22:07:16Z,Napkin Colour,2023-06-01,3,95.55,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-05-05T17:09:34Z,Trueblue - Blueberry 12x473ml,2023-07-19,3,51.38,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-03-17T18:56:00Z,Pate - Cognac,2023-04-28,1,70.2,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-26T20:09:24Z,Food Colouring - Blue,2023-06-17,3,216.56,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-29T04:22:52Z,Pepper - Chipotle Canned,2023-06-15,1,82.75,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-15T14:10:49Z,Snapple Lemon Tea,2023-06-16,1,237.89,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-05-05T23:46:11Z,Fib N9 - Prague Powder,2023-07-09,1,4.5,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-03-21T09:44:43Z,Beef - Salted,2023-06-12,4,71.58,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-03-29T15:02:44Z,Dates,2023-06-06,1,191.02,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-05-07T13:46:49Z,Gherkin,2023-06-15,5,176.37,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-02T15:51:21Z,Brandy Apricot,2023-06-27,5,94.28,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-05-06T17:50:20Z,The Pop Shoppe - Root Beer,2023-07-07,4,235.13,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-15T19:14:59Z,Scallops - 10/20,2023-07-10,4,34.29,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-03-19T00:03:28Z,Beef - Kobe Striploin,2023-04-29,5,229.73,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-05-07T12:54:56Z,Blueberries - Frozen,2023-07-04,2,213.94,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-19T01:55:22Z,Pike - Frozen Fillet,2023-07-17,3,246.97,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-10T02:16:56Z,Chilli Paste Ginger Garlic,2023-07-05,2,25.07,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-17T16:32:10Z,Pastrami,2023-05-17,3,35.53,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-10T13:01:51Z,Blue Curacao - Marie Brizard,2023-06-28,3,175.6,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-03-14T15:38:59Z,Cup - Translucent 7 Oz Clear,2023-06-02,3,42.68,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-14T15:16:36Z,Trout - Smoked,2023-07-08,4,143.96,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-09T07:40:06Z,Pike - Frozen Fillet,2023-06-22,2,119.96,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-06T21:54:23Z,Table Cloth 120 Round White,2023-06-07,5,126.5,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-03-16T16:46:01Z,Cookies - Oreo 4 Pack,2023-05-26,2,167.88,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-09T23:15:57Z,Bread - Multigrain Loaf,2023-06-17,1,26.95,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-05-09T03:36:50Z,Split Peas - Yellow Dry,2023-06-24,5,45.82,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-05-01T20:43:31Z,Kiwi Gold Zespri,2023-07-01,4,8.94,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-25T19:48:45Z,Pastry - Mini French Pastries,2023-07-04,1,224.65,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-22T19:02:04Z,Muffin Mix - Oatmeal,2023-05-22,4,149.11,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-05-06T21:38:02Z,Soup Campbells Turkey Veg.,2023-06-23,5,59.82,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-05T06:32:20Z,Tart Shells - Sweet 4,2023-05-06,3,67.73,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-11T09:35:44Z,Wheat - Soft Kernal Of Wheat,2023-06-04,5,124.96,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-17T09:13:03Z,Goldschalger,2023-06-08,1,210.04,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-11T20:54:24Z,External Supplier,2023-05-31,5,142.72,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-03-19T10:34:32Z,Vol Au Vents,2023-05-26,1,182.95,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-01T08:04:43Z,Oil - Pumpkinseed,2023-06-09,1,237.3,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-03-31T17:43:09Z,Gatorade - Orange,2023-05-15,4,154.15,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-25T17:18:23Z,Swiss Chard,2023-05-25,1,242.97,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-04-14T16:11:42Z,Food Colouring - Pink,2023-05-27,4,91.88,Store,Cash
+2024-05-08 20:29:23 WARN - Discount resulted in null for order: 2023-03-24T00:32:32Z,Blueberries,2023-05-27,3,16.26,Store,Cash
+2024-05-08 20:29:23 INFO - Discounts calculated successfully.
